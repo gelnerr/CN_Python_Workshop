@@ -3,7 +3,7 @@
 
 ## <p align="center"> Beginner Course Files for Python at Code Ninjas! </p>
 <div align="center">
-  <img src="https://elenco.com/wp-content/uploads/2020/07/Code-Ninjas-Logo.jpg" alt="image">
+  <img src="https://elenco.com/wp-content/uploads/2020/07/Code-Ninjas-Logo.jpg" alt="image" width="400" height="250">
 </div>
 
 
